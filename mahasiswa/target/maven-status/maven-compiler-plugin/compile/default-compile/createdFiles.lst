@@ -1,0 +1,5 @@
+com\raisya\mahasiswa\Controller\MahasiswaController.class
+com\raisya\mahasiswa\MahasiswaApplication.class
+com\raisya\mahasiswa\repository\MahasiswaRepository.class
+com\raisya\mahasiswa\service\MahasiswaService.class
+com\raisya\mahasiswa\entity\Mahasiswa.class
